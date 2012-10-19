@@ -1,0 +1,19 @@
+1. boot.img
+
+split_bootimg.pl boot.img
+
+mkdir ramdisk
+cd ramdisk
+gzip -dc ../boot.img-ramdisk.gz | cpio -i
+
+mkbootfs ramdisk |gzip >ramdisk-new.gz
+mkbootimg --kernel boot.img-kernel --ramdisk ramdisk-new.gz --base 0x02600000 -o boot-new.img
+
+chmod 755 ./boot-new.img
+
+2. system.img
+unyaffs system.img
+
+mkyaffs2image system system-new.img
+chmod 755 ./system-new.img
+
