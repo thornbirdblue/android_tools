@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/share/gdb/syscalls
+END
+gdb-syscalls.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/share/gdb/syscalls/gdb-syscalls.dtd
+END
+i386-linux.xml
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/share/gdb/syscalls/i386-linux.xml
+END
+amd64-linux.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/share/gdb/syscalls/amd64-linux.xml
+END
+ppc64-linux.xml
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/share/gdb/syscalls/ppc64-linux.xml
+END
+ppc-linux.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/share/gdb/syscalls/ppc-linux.xml
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/info
+END
+gccint.info
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/info/gccint.info
+END
+gcc.info
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/info/gcc.info
+END
+cpp.info
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/info/cpp.info
+END
+cppinternals.info
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/info/cppinternals.info
+END
+gccinstall.info
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/info/gccinstall.info
+END
+dir
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/info/dir
+END

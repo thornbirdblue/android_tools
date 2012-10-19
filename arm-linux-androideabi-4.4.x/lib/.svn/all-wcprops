@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/lib
+END
+libbfd.a
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/lib/libbfd.a
+END
+libiberty.a
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/lib/libiberty.a
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/lib/Android.mk
+END
+libarm-elf-linux-sim.a
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/lib/libarm-elf-linux-sim.a
+END
+libintl.a
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/lib/libintl.a
+END
+libbfd.la
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/lib/libbfd.la
+END

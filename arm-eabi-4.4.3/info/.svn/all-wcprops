@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/info
+END
+gccint.info
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/info/gccint.info
+END
+binutils.info
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/info/binutils.info
+END
+bfd.info
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/info/bfd.info
+END
+gcc.info
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/info/gcc.info
+END
+gprof.info
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/info/gprof.info
+END
+ld.info
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/info/ld.info
+END
+configure.info
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/info/configure.info
+END
+cpp.info
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/info/cpp.info
+END
+cppinternals.info
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/info/cppinternals.info
+END
+as.info
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/info/as.info
+END
+gccinstall.info
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/info/gccinstall.info
+END
+standards.info
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/info/standards.info
+END
+dir
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/info/dir
+END

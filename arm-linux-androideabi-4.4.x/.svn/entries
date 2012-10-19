@@ -1,0 +1,86 @@
+10
+
+dir
+824
+http://smartphone/repositories/MT6575/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x
+http://smartphone/repositories/MT6575
+
+
+
+2012-03-28T11:47:18.144648Z
+140
+mohuifu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31544166-0291-42e9-8b55-a158e6069c0c
+
+share
+dir
+
+include
+dir
+
+SOURCES
+file
+
+
+
+
+2012-04-16T10:45:00.634815Z
+65a32200f0a3ca1403e48e4e88a56724
+2012-03-28T11:47:18.144648Z
+140
+mohuifu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1016
+
+lib
+dir
+
+bin
+dir
+
+arm-linux-androideabi
+dir
+
+info
+dir
+
+libexec
+dir
+
+man
+dir
+

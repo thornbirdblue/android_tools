@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/arm-linux-androideabi/lib/ldscripts
+END
+armelf_linux_eabi.xd
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/arm-linux-androideabi/lib/ldscripts/armelf_linux_eabi.xd
+END
+armelfb_linux_eabi.xc
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/arm-linux-androideabi/lib/ldscripts/armelfb_linux_eabi.xc
+END
+armelfb_linux_eabi.xd
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/arm-linux-androideabi/lib/ldscripts/armelfb_linux_eabi.xd
+END
+armelf_linux_eabi.xdc
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/arm-linux-androideabi/lib/ldscripts/armelf_linux_eabi.xdc
+END
+armelfb_linux_eabi.xdc
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/arm-linux-androideabi/lib/ldscripts/armelfb_linux_eabi.xdc
+END
+armelf_linux_eabi.xsw
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/arm-linux-androideabi/lib/ldscripts/armelf_linux_eabi.xsw
+END
+armelfb_linux_eabi.xsw
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/arm-linux-androideabi/lib/ldscripts/armelfb_linux_eabi.xsw
+END
+armelf_linux_eabi.xn
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/arm-linux-androideabi/lib/ldscripts/armelf_linux_eabi.xn
+END
+armelf_linux_eabi.xbn
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/arm-linux-androideabi/lib/ldscripts/armelf_linux_eabi.xbn
+END
+armelfb_linux_eabi.xn
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/arm-linux-androideabi/lib/ldscripts/armelfb_linux_eabi.xn
+END
+armelfb_linux_eabi.xbn
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/arm-linux-androideabi/lib/ldscripts/armelfb_linux_eabi.xbn
+END
+armelf_linux_eabi.xr
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/arm-linux-androideabi/lib/ldscripts/armelf_linux_eabi.xr
+END
+armelf_linux_eabi.xs
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/arm-linux-androideabi/lib/ldscripts/armelf_linux_eabi.xs
+END
+armelfb_linux_eabi.xr
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/arm-linux-androideabi/lib/ldscripts/armelfb_linux_eabi.xr
+END
+armelf_linux_eabi.xu
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/arm-linux-androideabi/lib/ldscripts/armelf_linux_eabi.xu
+END
+armelfb_linux_eabi.xs
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/arm-linux-androideabi/lib/ldscripts/armelfb_linux_eabi.xs
+END
+armelf_linux_eabi.xsc
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/arm-linux-androideabi/lib/ldscripts/armelf_linux_eabi.xsc
+END
+armelf_linux_eabi.xw
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/arm-linux-androideabi/lib/ldscripts/armelf_linux_eabi.xw
+END
+armelfb_linux_eabi.xu
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/arm-linux-androideabi/lib/ldscripts/armelfb_linux_eabi.xu
+END
+armelfb_linux_eabi.xsc
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/arm-linux-androideabi/lib/ldscripts/armelfb_linux_eabi.xsc
+END
+armelfb_linux_eabi.xw
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/arm-linux-androideabi/lib/ldscripts/armelfb_linux_eabi.xw
+END
+armelf_linux_eabi.xdw
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/arm-linux-androideabi/lib/ldscripts/armelf_linux_eabi.xdw
+END
+armelfb_linux_eabi.xdw
+K 25
+svn:wc:ra_dav:version-url
+V 181
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/arm-linux-androideabi/lib/ldscripts/armelfb_linux_eabi.xdw
+END
+armelf_linux_eabi.x
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/arm-linux-androideabi/lib/ldscripts/armelf_linux_eabi.x
+END
+armelfb_linux_eabi.x
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/arm-linux-androideabi/lib/ldscripts/armelfb_linux_eabi.x
+END
+armelf_linux_eabi.xc
+K 25
+svn:wc:ra_dav:version-url
+V 179
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/arm-linux-androideabi/lib/ldscripts/armelf_linux_eabi.xc
+END

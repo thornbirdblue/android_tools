@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/share/info
+END
+gdbint.info
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/share/info/gdbint.info
+END
+annotate.info
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/share/info/annotate.info
+END
+bfd.info
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/share/info/bfd.info
+END
+gdb.info
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/share/info/gdb.info
+END
+stabs.info
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/share/info/stabs.info
+END
+configure.info
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/share/info/configure.info
+END
+standards.info
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/share/info/standards.info
+END
+dir
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/share/info/dir
+END

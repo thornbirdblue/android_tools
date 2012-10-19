@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/share/locale/zh_CN/LC_MESSAGES
+END
+binutils.mo
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/share/locale/zh_CN/LC_MESSAGES/binutils.mo
+END
+bfd.mo
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/share/locale/zh_CN/LC_MESSAGES/bfd.mo
+END
+opcodes.mo
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/share/locale/zh_CN/LC_MESSAGES/opcodes.mo
+END
+ld.mo
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/share/locale/zh_CN/LC_MESSAGES/ld.mo
+END

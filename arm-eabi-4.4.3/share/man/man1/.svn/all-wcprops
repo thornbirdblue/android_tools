@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/share/man/man1
+END
+arm-eabi-gdb.1
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/share/man/man1/arm-eabi-gdb.1
+END
+arm-eabi-gdbtui.1
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/share/man/man1/arm-eabi-gdbtui.1
+END
+arm-eabi-run.1
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/share/man/man1/arm-eabi-run.1
+END

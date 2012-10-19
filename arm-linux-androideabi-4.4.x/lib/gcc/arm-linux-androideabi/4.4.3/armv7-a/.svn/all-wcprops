@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/lib/gcc/arm-linux-androideabi/4.4.3/armv7-a
+END
+crtendS.o
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/lib/gcc/arm-linux-androideabi/4.4.3/armv7-a/crtendS.o
+END
+libgcc.a
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/lib/gcc/arm-linux-androideabi/4.4.3/armv7-a/libgcc.a
+END
+libgcov.a
+K 25
+svn:wc:ra_dav:version-url
+V 176
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/lib/gcc/arm-linux-androideabi/4.4.3/armv7-a/libgcov.a
+END
+crtbegin.o
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/lib/gcc/arm-linux-androideabi/4.4.3/armv7-a/crtbegin.o
+END
+crtend.o
+K 25
+svn:wc:ra_dav:version-url
+V 175
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/lib/gcc/arm-linux-androideabi/4.4.3/armv7-a/crtend.o
+END
+crtbeginS.o
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/lib/gcc/arm-linux-androideabi/4.4.3/armv7-a/crtbeginS.o
+END
+crtbeginT.o
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/lib/gcc/arm-linux-androideabi/4.4.3/armv7-a/crtbeginT.o
+END

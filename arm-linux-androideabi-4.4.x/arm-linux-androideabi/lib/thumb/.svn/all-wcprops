@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/arm-linux-androideabi/lib/thumb
+END
+libsupc++.la
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/arm-linux-androideabi/lib/thumb/libsupc++.la
+END
+libiberty.a
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/arm-linux-androideabi/lib/thumb/libiberty.a
+END
+libsupc++.a
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/arm-linux-androideabi/lib/thumb/libsupc++.a
+END

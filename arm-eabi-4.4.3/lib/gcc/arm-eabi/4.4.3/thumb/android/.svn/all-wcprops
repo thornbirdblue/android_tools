@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/lib/gcc/arm-eabi/4.4.3/thumb/android
+END
+libgcc.a
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/lib/gcc/arm-eabi/4.4.3/thumb/android/libgcc.a
+END
+crtn.o
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/lib/gcc/arm-eabi/4.4.3/thumb/android/crtn.o
+END
+libgcov.a
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/lib/gcc/arm-eabi/4.4.3/thumb/android/libgcov.a
+END
+crtbegin.o
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/lib/gcc/arm-eabi/4.4.3/thumb/android/crtbegin.o
+END
+crtend.o
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/lib/gcc/arm-eabi/4.4.3/thumb/android/crtend.o
+END
+crti.o
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repositories/MT6573/!svn/ver/579/trunk/alps-w1140-20111007/prebuilt/linux-x86/toolchain/arm-eabi-4.4.3/lib/gcc/arm-eabi/4.4.3/thumb/android/crti.o
+END

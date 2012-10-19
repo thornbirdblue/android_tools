@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 180
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/lib/gcc/arm-linux-androideabi/4.4.3/plugin/include/config
+END
+linux-android.h
+K 25
+svn:wc:ra_dav:version-url
+V 196
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/lib/gcc/arm-linux-androideabi/4.4.3/plugin/include/config/linux-android.h
+END
+linux.h
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/lib/gcc/arm-linux-androideabi/4.4.3/plugin/include/config/linux.h
+END
+dbxelf.h
+K 25
+svn:wc:ra_dav:version-url
+V 189
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/lib/gcc/arm-linux-androideabi/4.4.3/plugin/include/config/dbxelf.h
+END
+elfos.h
+K 25
+svn:wc:ra_dav:version-url
+V 188
+/repositories/MT6575/!svn/ver/140/trunk/ALPS.ICS.MP.V1_W_20120328/prebuilt/linux-x86/toolchain/arm-linux-androideabi-4.4.x/lib/gcc/arm-linux-androideabi/4.4.3/plugin/include/config/elfos.h
+END
