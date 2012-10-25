@@ -1,0 +1,7 @@
+#!/bin/sh
+repo sync -j2
+while [ $? -ne 0 ]
+do
+sleep 3
+repo sync -j2
+done
