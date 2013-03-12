@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/share/gdb/syscalls
+END
+gdb-syscalls.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/share/gdb/syscalls/gdb-syscalls.dtd
+END
+mips-n32-linux.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/share/gdb/syscalls/mips-n32-linux.xml
+END
+sparc-linux.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/share/gdb/syscalls/sparc-linux.xml
+END
+i386-linux.xml
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/share/gdb/syscalls/i386-linux.xml
+END
+mips-o32-linux.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/share/gdb/syscalls/mips-o32-linux.xml
+END
+amd64-linux.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/share/gdb/syscalls/amd64-linux.xml
+END
+ppc64-linux.xml
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/share/gdb/syscalls/ppc64-linux.xml
+END
+mips-n64-linux.xml
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/share/gdb/syscalls/mips-n64-linux.xml
+END
+ppc-linux.xml
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/share/gdb/syscalls/ppc-linux.xml
+END
+sparc64-linux.xml
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/share/gdb/syscalls/sparc64-linux.xml
+END

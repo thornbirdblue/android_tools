@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/lib/gcc/arm-eabi/4.6.x-google/include
+END
+stddef.h
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/lib/gcc/arm-eabi/4.6.x-google/include/stddef.h
+END
+iso646.h
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/lib/gcc/arm-eabi/4.6.x-google/include/iso646.h
+END
+mmintrin.h
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/lib/gcc/arm-eabi/4.6.x-google/include/mmintrin.h
+END
+arm_neon.h
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/lib/gcc/arm-eabi/4.6.x-google/include/arm_neon.h
+END
+stdint-gcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/lib/gcc/arm-eabi/4.6.x-google/include/stdint-gcc.h
+END
+stdfix.h
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/lib/gcc/arm-eabi/4.6.x-google/include/stdfix.h
+END
+stdarg.h
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/lib/gcc/arm-eabi/4.6.x-google/include/stdarg.h
+END
+tgmath.h
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/lib/gcc/arm-eabi/4.6.x-google/include/tgmath.h
+END
+unwind.h
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/lib/gcc/arm-eabi/4.6.x-google/include/unwind.h
+END
+float.h
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/lib/gcc/arm-eabi/4.6.x-google/include/float.h
+END
+stdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/lib/gcc/arm-eabi/4.6.x-google/include/stdint.h
+END
+varargs.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/lib/gcc/arm-eabi/4.6.x-google/include/varargs.h
+END
+stdbool.h
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/lib/gcc/arm-eabi/4.6.x-google/include/stdbool.h
+END

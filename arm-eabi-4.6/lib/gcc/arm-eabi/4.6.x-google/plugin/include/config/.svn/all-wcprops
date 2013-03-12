@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/lib/gcc/arm-eabi/4.6.x-google/plugin/include/config
+END
+newlib-stdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 177
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/lib/gcc/arm-eabi/4.6.x-google/plugin/include/config/newlib-stdint.h
+END
+dbxelf.h
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/lib/gcc/arm-eabi/4.6.x-google/plugin/include/config/dbxelf.h
+END
+initfini-array.h
+K 25
+svn:wc:ra_dav:version-url
+V 178
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/lib/gcc/arm-eabi/4.6.x-google/plugin/include/config/initfini-array.h
+END
+elfos.h
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/lib/gcc/arm-eabi/4.6.x-google/plugin/include/config/elfos.h
+END

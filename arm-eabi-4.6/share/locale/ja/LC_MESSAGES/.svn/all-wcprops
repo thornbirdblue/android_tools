@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/share/locale/ja/LC_MESSAGES
+END
+binutils.mo
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/share/locale/ja/LC_MESSAGES/binutils.mo
+END
+bfd.mo
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/share/locale/ja/LC_MESSAGES/bfd.mo
+END
+ld.mo
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/share/locale/ja/LC_MESSAGES/ld.mo
+END

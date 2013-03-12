@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/arm-eabi/bin
+END
+ld
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/arm-eabi/bin/ld
+END
+objdump
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/arm-eabi/bin/objdump
+END
+strip
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/arm-eabi/bin/strip
+END
+ar
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/arm-eabi/bin/ar
+END
+as
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/arm-eabi/bin/as
+END
+objcopy
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/arm-eabi/bin/objcopy
+END
+ranlib
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/arm-eabi/bin/ranlib
+END
+c++
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/arm-eabi/bin/c++
+END
+ld.bfd
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/arm-eabi/bin/ld.bfd
+END
+nm
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/arm-eabi/bin/nm
+END
+g++
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/arm-eabi/bin/g++
+END
+gcc
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/arm-eabi/bin/gcc
+END

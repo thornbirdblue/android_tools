@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/share/locale/tr/LC_MESSAGES
+END
+binutils.mo
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/share/locale/tr/LC_MESSAGES/binutils.mo
+END
+gas.mo
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/share/locale/tr/LC_MESSAGES/gas.mo
+END
+bfd.mo
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/share/locale/tr/LC_MESSAGES/bfd.mo
+END
+opcodes.mo
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/share/locale/tr/LC_MESSAGES/opcodes.mo
+END
+gprof.mo
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/share/locale/tr/LC_MESSAGES/gprof.mo
+END
+ld.mo
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/repositories/APQ8064/!svn/ver/371/trunk/jb_rel-A8064AAAAANLYA161011/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6/share/locale/tr/LC_MESSAGES/ld.mo
+END
