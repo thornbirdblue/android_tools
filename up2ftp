@@ -1,0 +1,11 @@
+#!/bin/sh
+FTPHOST="172.20.126.223"
+FTPNAME="tqc"
+FTPPWD="dg123456"
+
+ftp -vn << EOF
+open $FTPHOST
+user $FTPNAME $FTPPWD
+put $1
+bye
+EOF

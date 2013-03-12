@@ -1,0 +1,4 @@
+#! /bin/sh
+CMDLINE="console=ttyMSM0,115200,n8 androidboot.hardware=qcom vmalloc=200M"
+acp -fp arch/arm/boot/zImage kernel_image
+mkbootimg --kernel kernel_image --ramdisk ../out/target/product/msm8625/ramdisk.img --cmdline "$CMDLINE"  --base 0x00200000 --pagesize 4096 --output boot.img

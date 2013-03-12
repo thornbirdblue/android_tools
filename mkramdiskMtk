@@ -1,0 +1,2 @@
+#!/bin/sh
+mkbootfs $1 |minigzip >ramdisk.img
